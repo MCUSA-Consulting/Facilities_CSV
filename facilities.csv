@@ -1,8 +1,8 @@
-System,Facility,CCN,State,State_full,County,City,Zip,Profit status,Status,Lat,Long,Sys_ref
-– NOT IN ANY SYSTEM – ,Orthopaedic & Fracture Clinic,–,MN,Minnesota,Blue Earth,Mankato,56001,For profit,2019,44.13203,-93.97704,1
-– NOT IN ANY SYSTEM – ,Overlake Medical Center,500051,WA,Washington,King County,Bellevue,98004,Non-profit,2011-2016,47.61450987,-122.20345,1
-Agilon Health,Family Health Center of Bastrop,–,TX,Texas,Bastrop County,Bastrop,78602,For profit,2018,30.12383,-97.3284,2
-Agilon Health,Premier Family Physicians,–,TX,Texas,Travis County,Austin,78735,For profit,2018,30.2659,-97.86658,2
+System,Facility,CCN,State,State_full,County,City,Zip,Profit Status,Status,Lat,Long,Sys_ref
+â€“ NOT IN ANY SYSTEM â€“ ,Orthopaedic & Fracture Clinic,â€“,MN,Minnesota,Blue Earth,Mankato,56001,For profit,2019,44.13203,-93.97704,1
+â€“ NOT IN ANY SYSTEM â€“ ,Overlake Medical Center,500051,WA,Washington,King County,Bellevue,98004,Non-profit,2011-2016,47.61450987,-122.20345,1
+Agilon Health,Family Health Center of Bastrop,â€“,TX,Texas,Bastrop County,Bastrop,78602,For profit,2018,30.12383,-97.3284,2
+Agilon Health,Premier Family Physicians,â€“,TX,Texas,Travis County,Austin,78735,For profit,2018,30.2659,-97.86658,2
 Ardent,Hackensack Meridian Health Mountainside Medical Center,310054,NJ,New Jersey,Essex,Montclair,7042,For profit,2019,40.81369,-74.21766,3
 Ardent,Hackensack Meridian Health Pascack Valley Medical Center,310130,NJ,New Jersey,Bergen,Westwood,7675,For profit,2019,41.00911,-74.00429,3
 Ardent,University of Kansas Health System St. Francis Campus,170016,KS,Kansas,Shawnee,Topeka,66606,For profit,2019,39.0616,-95.72116,3
@@ -96,33 +96,33 @@ Ardent,Lovelace Regional Hospital - Roswell,320086,NM,New Mexico,Chaves County,R
 "Ascension Health - Saint Louis, MO",Saint Mary's Hospital,30010,AZ,Arizona,Pima County,Tucson,85745,Non-profit,Future Prospects: 2020,32.25879,-111.08472,4
 "Ascension Health - Saint Louis, MO",Lourdes Medical Center,501337,WA,Washington,Franklin County,Pasco,99301,Non-profit,Future Prospects: 2020,46.38445,-118.94383,4
 "Ascension Health - Saint Louis, MO",Lourdes Counseling Center,504008,WA,Washington,Benton County,Richland,99352,Non-profit,Future Prospects: 2020,46.25224,-119.28784,4
-Austin Regional Clinic (ARC),ARC Buda,–,TX,Texas,Hays County,Buda,78610,For profit,2011-2016,30.07722,-97.83741,5
-Austin Regional Clinic (ARC),ARC Cedar Park,–,TX,Texas,Williamson County,Cedar Park,78613,For profit,2011-2016,30.50895,-97.82463,5
-Austin Regional Clinic (ARC),ARC Cedar Park Medical Plaza,–,TX,Texas,Williamson County,Cedar Park,78613,For profit,2011-2016,30.50395,-97.82963,5
-Austin Regional Clinic (ARC),ARC Now Clinic,–,TX,Texas,Williamson County,Cedar Park,78613,For profit,2011-2016,30.49895,-97.82463,5
-Austin Regional Clinic (ARC),ARC Dripping Springs,–,TX,Texas,Hays County,Dripping Springs,78620,For profit,2011-2016,30.21894,-98.12895,5
-Austin Regional Clinic (ARC),ARC Hutto,–,TX,Texas,Williamson County,Hutto,78634,For profit,2011-2016,30.55906,-97.54472,5
-Austin Regional Clinic (ARC),ARC Kyle Plum Creek,–,TX,Texas,Hays County,Kyle,78640,For profit,2011-2016,29.99495,-97.83313,5
-Austin Regional Clinic (ARC),ARC Leander,–,TX,Texas,Williamson County,Leander,78641,For profit,2011-2016,30.56176,-97.91517,5
-Austin Regional Clinic (ARC),ARC Manor,–,TX,Texas,Travis County,Manor,78653,For profit,2011-2016,30.33942,-97.52362,5
-Austin Regional Clinic (ARC),ARC Kelly Lane,–,TX,Texas,Travis County,Pflugerville,78660,For profit,2011-2016,30.44304,-97.6005,5
-Austin Regional Clinic (ARC),ARC Pflugerville,–,TX,Texas,Travis County,Pflugerville,78660,For profit,2011-2016,30.44304,-97.5905,5
-Austin Regional Clinic (ARC),ARC Bee Cave,–,TX,Texas,Travis County,Bee Cave,78669,For profit,2011-2016,30.42263,-98.12241,5
-Austin Regional Clinic (ARC),ARC Round Rock,–,TX,Texas,Williamson County,Round Rock,78681,For profit,2011-2016,30.53778013,-97.72725,5
-Austin Regional Clinic (ARC),ARC Sendero Springs,–,TX,Texas,Williamson County,Round Rock,78681,For profit,2011-2016,30.52911987,-97.72725,5
-Austin Regional Clinic (ARC),ARC South 1st,–,TX,Texas,Travis County,Austin,78704,For profit,2011-2016,30.24748013,-97.76787,5
-Austin Regional Clinic (ARC),ARC South 1st Specialty,–,TX,Texas,Travis County,Austin,78704,For profit,2011-2016,30.23881987,-97.76787,5
-Austin Regional Clinic (ARC),ARC Medical Park Tower Ob/Gyn,–,TX,Texas,Travis County,Austin,78705,For profit,2011-2016,30.29912528,-97.73700492,5
-Austin Regional Clinic (ARC),ARC Medical Park Tower Orthopedics,–,TX,Texas,Travis County,Austin,78705,For profit,2011-2016,30.29730893,-97.74259509,5
-Austin Regional Clinic (ARC),ARC Anderson Mill,–,TX,Texas,Travis County,Austin,78726,For profit,2011-2016,30.42949,-97.84707,5
-Austin Regional Clinic (ARC),ARC Wilson Parke,–,TX,Texas,Travis County,Austin,78726,For profit,2011-2016,30.42949,-97.83707,5
-Austin Regional Clinic (ARC),ARC Far West,–,TX,Texas,Travis County,Austin,78731,For profit,2011-2016,30.35169013,-97.77097,5
-Austin Regional Clinic (ARC),ARC Far West Medical Tower,–,TX,Texas,Travis County,Austin,78731,For profit,2011-2016,30.34302987,-97.77097,5
-Austin Regional Clinic (ARC),ARC South Og/Gyn,–,TX,Texas,Travis County,Austin,78745,For profit,2011-2016,30.20685,-97.79738,5
-Austin Regional Clinic (ARC),ARC Southwest,–,TX,Texas,Travis County,Austin,78748,For profit,2011-2016,30.16538,-97.82343,5
-Austin Regional Clinic (ARC),ARC Nurture North Ob/Gyn,–,TX,Texas,Travis County,Austin,78759,For profit,2011-2016,30.40768,-97.76105,5
-Austin Regional Clinic (ARC),ARC Quarry Lake,–,TX,Texas,Travis County,Austin,78759,For profit,2011-2016,30.40268,-97.76605,5
-Austin Regional Clinic (ARC),ARC Seton Northwest,–,TX,Texas,Travis County,Austin,78759,For profit,2011-2016,30.39768,-97.76105,5
+Austin Regional Clinic (ARC),ARC Buda,â€“,TX,Texas,Hays County,Buda,78610,For profit,2011-2016,30.07722,-97.83741,5
+Austin Regional Clinic (ARC),ARC Cedar Park,â€“,TX,Texas,Williamson County,Cedar Park,78613,For profit,2011-2016,30.50895,-97.82463,5
+Austin Regional Clinic (ARC),ARC Cedar Park Medical Plaza,â€“,TX,Texas,Williamson County,Cedar Park,78613,For profit,2011-2016,30.50395,-97.82963,5
+Austin Regional Clinic (ARC),ARC Now Clinic,â€“,TX,Texas,Williamson County,Cedar Park,78613,For profit,2011-2016,30.49895,-97.82463,5
+Austin Regional Clinic (ARC),ARC Dripping Springs,â€“,TX,Texas,Hays County,Dripping Springs,78620,For profit,2011-2016,30.21894,-98.12895,5
+Austin Regional Clinic (ARC),ARC Hutto,â€“,TX,Texas,Williamson County,Hutto,78634,For profit,2011-2016,30.55906,-97.54472,5
+Austin Regional Clinic (ARC),ARC Kyle Plum Creek,â€“,TX,Texas,Hays County,Kyle,78640,For profit,2011-2016,29.99495,-97.83313,5
+Austin Regional Clinic (ARC),ARC Leander,â€“,TX,Texas,Williamson County,Leander,78641,For profit,2011-2016,30.56176,-97.91517,5
+Austin Regional Clinic (ARC),ARC Manor,â€“,TX,Texas,Travis County,Manor,78653,For profit,2011-2016,30.33942,-97.52362,5
+Austin Regional Clinic (ARC),ARC Kelly Lane,â€“,TX,Texas,Travis County,Pflugerville,78660,For profit,2011-2016,30.44304,-97.6005,5
+Austin Regional Clinic (ARC),ARC Pflugerville,â€“,TX,Texas,Travis County,Pflugerville,78660,For profit,2011-2016,30.44304,-97.5905,5
+Austin Regional Clinic (ARC),ARC Bee Cave,â€“,TX,Texas,Travis County,Bee Cave,78669,For profit,2011-2016,30.42263,-98.12241,5
+Austin Regional Clinic (ARC),ARC Round Rock,â€“,TX,Texas,Williamson County,Round Rock,78681,For profit,2011-2016,30.53778013,-97.72725,5
+Austin Regional Clinic (ARC),ARC Sendero Springs,â€“,TX,Texas,Williamson County,Round Rock,78681,For profit,2011-2016,30.52911987,-97.72725,5
+Austin Regional Clinic (ARC),ARC South 1st,â€“,TX,Texas,Travis County,Austin,78704,For profit,2011-2016,30.24748013,-97.76787,5
+Austin Regional Clinic (ARC),ARC South 1st Specialty,â€“,TX,Texas,Travis County,Austin,78704,For profit,2011-2016,30.23881987,-97.76787,5
+Austin Regional Clinic (ARC),ARC Medical Park Tower Ob/Gyn,â€“,TX,Texas,Travis County,Austin,78705,For profit,2011-2016,30.29912528,-97.73700492,5
+Austin Regional Clinic (ARC),ARC Medical Park Tower Orthopedics,â€“,TX,Texas,Travis County,Austin,78705,For profit,2011-2016,30.29730893,-97.74259509,5
+Austin Regional Clinic (ARC),ARC Anderson Mill,â€“,TX,Texas,Travis County,Austin,78726,For profit,2011-2016,30.42949,-97.84707,5
+Austin Regional Clinic (ARC),ARC Wilson Parke,â€“,TX,Texas,Travis County,Austin,78726,For profit,2011-2016,30.42949,-97.83707,5
+Austin Regional Clinic (ARC),ARC Far West,â€“,TX,Texas,Travis County,Austin,78731,For profit,2011-2016,30.35169013,-97.77097,5
+Austin Regional Clinic (ARC),ARC Far West Medical Tower,â€“,TX,Texas,Travis County,Austin,78731,For profit,2011-2016,30.34302987,-97.77097,5
+Austin Regional Clinic (ARC),ARC South Og/Gyn,â€“,TX,Texas,Travis County,Austin,78745,For profit,2011-2016,30.20685,-97.79738,5
+Austin Regional Clinic (ARC),ARC Southwest,â€“,TX,Texas,Travis County,Austin,78748,For profit,2011-2016,30.16538,-97.82343,5
+Austin Regional Clinic (ARC),ARC Nurture North Ob/Gyn,â€“,TX,Texas,Travis County,Austin,78759,For profit,2011-2016,30.40768,-97.76105,5
+Austin Regional Clinic (ARC),ARC Quarry Lake,â€“,TX,Texas,Travis County,Austin,78759,For profit,2011-2016,30.40268,-97.76605,5
+Austin Regional Clinic (ARC),ARC Seton Northwest,â€“,TX,Texas,Travis County,Austin,78759,For profit,2011-2016,30.39768,-97.76105,5
 Baptist Health Services Group,BMH - Collierville,440217,TN,Tennessee,Shelby County,Memphis,38017,Non-profit,2017,35.06749,-89.65066,6
 Baptist Health Services Group,BMH - Tipton,440131,TN,Tennessee,Tipton County,Covington,38019,Non-profit,2017,35.56347,-89.63018,6
 Baptist Health Services Group,Tennova Healthcare - Dyersburg,440072,TN,Tennessee,Dyer County,Dyersburg,38024,Non-profit,2017,36.03642,-89.38077,6
@@ -130,10 +130,10 @@ Baptist Health Services Group,Lauderdale Community Hospital,441314,TN,Tennessee,
 Baptist Health Services Group,BMH - Memphis,440048,TN,Tennessee,Shelby County,Memphis,38120,Non-profit,2017,35.12352,-89.85219,6
 Baptist Health Services Group,Tennova Healthcare - Volunteer Martin,440061,TN,Tennessee,Weakley County,Martin,38237,Non-profit,2017,36.35951,-88.83433,6
 Baptist Health Services Group,BMH - Union City,440130,TN,Tennessee,Obion County,Union City,38261,Non-profit,2017,36.43235,-89.11642,6
-Baptist Health Services Group,Tennova Healthcare - Regional Jackson,–,TN,Tennessee,Madison County,Jackson,38305,Non-profit,2017,35.70199,-88.76793,6
+Baptist Health Services Group,Tennova Healthcare - Regional Jackson,â€“,TN,Tennessee,Madison County,Jackson,38305,Non-profit,2017,35.70199,-88.76793,6
 Baptist Health Services Group,BMH Huntingdon,440016,TN,Tennessee,Carroll County,Huntingdon,38344,Non-profit,2017,35.97829,-88.42847,6
 Baptist Health Services Group,Hardin Medical Center,440109,TN,Tennessee,Hardin County,Savannah,38372,Non-profit,2017,35.16952,-88.14368,6
-Baptist Health Services Group,Merit Health Batesville,–,MS,Mississippi,Panola County,Batesville,38606,Non-profit,2017,34.30466,-89.95596,6
+Baptist Health Services Group,Merit Health Batesville,â€“,MS,Mississippi,Panola County,Batesville,38606,Non-profit,2017,34.30466,-89.95596,6
 Baptist Health Services Group,Quitman County Hospital,251314,MS,Mississippi,Quitman County,Marks,38646,Non-profit,2017,34.28106,-90.29651,6
 Baptist Health Services Group,BMH - Union County,250006,MS,Mississippi,Union County,New Albany,38652,Non-profit,2017,34.48346,-88.99686,6
 Baptist Health Services Group,BMH - North Mississippi,250034,MS,Mississippi,Lafayette County,Oxford,38655,Non-profit,2017,34.33305,-89.47578,6
@@ -193,7 +193,7 @@ Catholic Health Initiatives,Saint Vincent Infirmary Medical Center,,AR,Arkansas,
 Catholic Health Initiatives,Saint Anthony North Hospital,,CO,Colorado,Broomfield County,Westminster,80023,Non-profit,Future Prospects: 2020,39.97242,-105.01094,8
 Catholic Health Initiatives,Mercy Medical Center,,OR,Oregon,Douglas County,Roseburg,97471,Non-profit,Future Prospects: 2020,43.22015,-123.47587,8
 Catholic Health Initiatives,Saint Anthony Hospital,,OR,Oregon,Umatilla County,Pendleton,97801,Non-profit,Future Prospects: 2020,45.6682,-118.81572,8
-CHI Franciscan Health,Gig Harbor Same Day Surgery Center,–,WA,Washington,Pierce County,Gig Harbor,98335,Non-profit,2011-2016,47.29895,-122.62392,9
+CHI Franciscan Health,Gig Harbor Same Day Surgery Center,â€“,WA,Washington,Pierce County,Gig Harbor,98335,Non-profit,2011-2016,47.29895,-122.62392,9
 CHI Franciscan Health,Harrison Medical Center Bremerton,500039,WA,Washington,Kitsap County,Bremerton,98310,Non-profit,2011-2016,47.59269,-122.623,9
 CHI Franciscan Health,Highline Medical Center,500011,WA,Washington,King County,Burien,98166,Non-profit,2011-2016,47.45281,-122.3501,9
 CHI Franciscan Health,St. Anthony Hospital,500151,WA,Washington,Pierce County,Gig Harbor,98332,Non-profit,2011-2016,47.365,-122.59887,9
@@ -211,23 +211,23 @@ CHI Health Nebraska/Iowa,CHI Health Creighton University Medical Center - Univer
 CHI Health Nebraska/Iowa,CHI Health St. Mary's,281342,NE,Nebraska,Otoe County,Nebraska City,68410,Non-profit,2017,40.6375,-95.88976,10
 CHI Health Nebraska/Iowa,Saint Mary's Community Hospital,281342,NE,Nebraska,Otoe County,Nebraska City,68410,Non-profit,2017,40.6375,-95.87976,10
 CHI Health Nebraska/Iowa,CHI Health St. Elizabeth,280020,NE,Nebraska,Lancaster County,Lincoln,68510,Non-profit,2017,40.80653,-96.64096,10
-CHI Health Nebraska/Iowa,Saint Elizabeth Regional Medical Center,–,NE,Nebraska,Lancaster County,Lincoln,68510,Non-profit,2017,40.80653,-96.63096,10
+CHI Health Nebraska/Iowa,Saint Elizabeth Regional Medical Center,â€“,NE,Nebraska,Lancaster County,Lincoln,68510,Non-profit,2017,40.80653,-96.63096,10
 CHI Health Nebraska/Iowa,CHI Health Nebraska Heart,280128,NE,Nebraska,Lancaster County,Lincoln,68526,Non-profit,2017,40.73235,-96.58867,10
 CHI Health Nebraska/Iowa,Nebraska Heart Hospital,280128,NE,Nebraska,Lancaster County,Lincoln,68526,Non-profit,2017,40.73235,-96.57867,10
 CHI Health Nebraska/Iowa,CHI Health Schuyler,281323,NE,Nebraska,Colfax County,Schuyler,68661,Non-profit,2017,41.49314,-97.08363,10
 CHI Health Nebraska/Iowa,CHI Health Plainview,281346,NE,Nebraska,Pierce County,Plainview,68769,Non-profit,2017,42.32227,-97.81212,10
 CHI Health Nebraska/Iowa,CHI Health St. Francis,280023,NE,Nebraska,Hall County,Grand Island,68803,Non-profit,2017,40.95492,-98.42022,10
-CHI Health Nebraska/Iowa,Saint Francis Medical Center,–,NE,Nebraska,Hall County,Grand Island,68803,Non-profit,2017,40.95492,-98.41022,10
+CHI Health Nebraska/Iowa,Saint Francis Medical Center,â€“,NE,Nebraska,Hall County,Grand Island,68803,Non-profit,2017,40.95492,-98.41022,10
 CHI Health Nebraska/Iowa,CHI Health Good Samaritan,280009,NE,Nebraska,Buffalo County,Kearney,68847,Non-profit,2017,40.75891,-99.03072,10
-CHI Health Nebraska/Iowa,Good Samaritan Hospital,–,NE,Nebraska,Buffalo County,Kearney,68847,Non-profit,2017,40.75891,-99.02072,10
+CHI Health Nebraska/Iowa,Good Samaritan Hospital,â€“,NE,Nebraska,Buffalo County,Kearney,68847,Non-profit,2017,40.75891,-99.02072,10
 CHI Texas Division,Memorial Lufkin & Memorial Specialty Hospitals,450211,TX,Texas,Angelina County,Lufkin,75904,Non-profit,2018,31.33969,-94.82673,11
 CHI Texas Division,CHI St. Luke's Health Memorial San Augustine,451360,TX,Texas,San Augustine County,San Augustine,75972,Non-profit,2018,31.49499,-94.12708,11
-CHI Texas Division,Burleson Hospital ,–,TX,Texas,Johnson County,Burleson,76028,Non-profit,2018,32.52605,-97.30317,11
-CHI Texas Division,Baylor College of Medicine,–,TX,Texas,Harris County,Houston,77030,Non-profit,2017,29.71062013,-95.4051,11
+CHI Texas Division,Burleson Hospital ,â€“,TX,Texas,Johnson County,Burleson,76028,Non-profit,2018,32.52605,-97.30317,11
+CHI Texas Division,Baylor College of Medicine,â€“,TX,Texas,Harris County,Houston,77030,Non-profit,2017,29.71062013,-95.4051,11
 CHI Texas Division,Baylor St. Luke's Medical Center,450193,TX,Texas,Harris County,Houston,77030,Non-profit,2017,29.70195987,-95.4051,11
 CHI Texas Division,CHI St. Luke's Health - The Vintage Hospital,670075,TX,Texas,Harris County,Houston,77070,Non-profit,2017,29.97776,-95.57315,11
 CHI Texas Division,CHI St. Luke's Health Memorial Livingston,450395,TX,Texas,Polk County,Livingston,77351,Non-profit,2018,30.7127,-94.82192,11
-CHI Texas Division,CHI St. Luke's Health–The Woodlands Hospital,450862,TX,Texas,Montgomery County,The Woodlands,77384,Non-profit,2017,30.23494,-95.49526,11
+CHI Texas Division,CHI St. Luke's Healthâ€“The Woodlands Hospital,450862,TX,Texas,Montgomery County,The Woodlands,77384,Non-profit,2017,30.23494,-95.49526,11
 CHI Texas Division,Springwoods Village Hospital ,77389,TX,Texas,Harris County,Spring,77389,Non-profit,2017,30.11516,-95.50749,11
 CHI Texas Division,Bellville Hospital,450253,TX,Texas,Austin County,Belville,77418,Non-profit,2018,29.97879,-96.25057,11
 CHI Texas Division,CHI St. Luke's Health - Sugar Land Hospital,670053,TX,Texas,Fort Bend County,Sugar Land,77478,Non-profit,2017,29.61964,-95.60701,11
@@ -235,7 +235,7 @@ CHI Texas Division,CHI St. Luke's Health - Patients Medical Center,670031,TX,Tex
 CHI Texas Division,Brazosport Health System,450072,TX,Texas,Brazoria County,Lake Jackson,77566,Non-profit,2017,29.05023,-95.47549,11
 CHI Texas Division,CHI St. Josepth Regional Health Center,450011,TX,Texas,Brazos County,Bryan,77802,Non-profit,2018,30.66126,-96.32265,11
 CHI Texas Division,Madison St. Joseph Health Center,451316,TX,Texas,Madison County,Madisonville,77864,Non-profit,2018,30.95416,-95.90559,11
-CHI Texas Division,Grimes Hospital,451322,TX,Texas,Grimes County, Navasota,77868,Non-profit,2018,30.3686,-96.0616,11
+CHI Texas Division,Grimes Hospital,451322,TX,Texas,Grimes County,Â Navasota,77868,Non-profit,2018,30.3686,-96.0616,11
 CHS,Moses Taylor Hospital,390119,PA,Pennsylvania,Lackawanna,Scranton,18503,For profit,2019,41.41128,-75.66769,12
 CHS,Regional Hospital of Scranton,390237,PA,Pennsylvania,Lackawanna,Scranton,18510,For profit,2019,41.4073,-75.63681,12
 CHS,Berwick Hospital Center,390072,PA,Pennsylvania,Columbia,Berwick,18603,For profit,2019,41.08294,-76.24886,12
@@ -260,12 +260,12 @@ CHS,Lower Keys Medical Center,100150,FL,Florida,Monroe,Key West,33040,For profit
 CHS,Bayfront Health St. Petersburg,100032,FL,Florida,Pinellas,Saint Petersburg,33701,For profit,2019,27.77041,-82.6357,12
 CHS,Bayfront Health Punta Gorda,100047,FL,Florida,Charlotte,Punta Gorda,33950,For profit,2019,26.9022,-82.04419,12
 CHS,Bayfront Health Port Charlotte,100077,FL,Florida,Charlotte,Port Charlotte,33952,For profit,2019,26.99012,-82.1022,12
-CHS,Physicians Regional Healthcare System - Collier,–,FL,Florida,Collier,Naples,34114,For profit,2019,25.96746,-81.55034,12
+CHS,Physicians Regional Healthcare System - Collier,â€“,FL,Florida,Collier,Naples,34114,For profit,2019,25.96746,-81.55034,12
 CHS,Physicians Regional Healthcare System - Pine Ridge,100286,FL,Florida,Collier,Naples,34119,For profit,2019,26.26653,-81.71461,12
 CHS,Venice Regional Bayfront Health,100070,FL,Florida,Sarasota,Venice,34285,For profit,2019,27.09153,-82.43399,12
 CHS,Bayfront Health Seven Rivers,100249,FL,Florida,Citrus,Crystal River,34428,For profit,2019,28.96087,-82.63392,12
 CHS,Bayfront Health Brooksville,100071,FL,Florida,Hernando,Brooksville,34601,For profit,2019,28.59027,-82.36481,12
-CHS,Bayfront Health Spring Hill,–,FL,Florida,Hernando,Spring Hill,34609,For profit,2019,28.47933,-82.5082,12
+CHS,Bayfront Health Spring Hill,â€“,FL,Florida,Hernando,Spring Hill,34609,For profit,2019,28.47933,-82.5082,12
 CHS,St Cloud Regional Medical Center,100302,FL,Florida,Osceola,Saint Cloud,34769,For profit,2019,28.2451,-81.29113,12
 CHS,Grandview Medical Center,10104,AL,Alabama,Jefferson,Birmingham,35243,For profit,2019,33.44278,-86.73994,12
 CHS,Crestwood Medical Center,10131,AL,Alabama,Madison,Huntsville,35801,For profit,2019,34.72465,-86.56222,12
@@ -310,9 +310,9 @@ CHS,Northern Louisiana Medical Center,190086,LA,Louisiana,Lincoln,Ruston,71270,F
 CHS,Medical Center of South Arkansas,40088,AR,Arkansas,Union,El Dorado,71730,For profit,2019,33.20062,-92.62907,12
 CHS,Northwest Health Physicians' Specialty Hospital,40152,AR,Arkansas,Washington,Fayetteville,72703,For profit,2019,36.11505,-94.05393,12
 CHS,Willow Creek Women's Hospital,40022,AR,Arkansas,Washington,Fayetteville,72704,For profit,2019,36.10359,-94.29665,12
-CHS,Northwest Medical Center - Bentonville,–,AR,Arkansas,Benton,Bentonville,72712,For profit,2019,36.35041,-94.25426,12
+CHS,Northwest Medical Center - Bentonville,â€“,AR,Arkansas,Benton,Bentonville,72712,For profit,2019,36.35041,-94.25426,12
 CHS,Siloam Springs Regional Hospital,40001,AR,Arkansas,Benton,Siloam Springs,72761,For profit,2019,36.17017,-94.45816,12
-CHS,Northwest Medical Center - Springdale,–,AR,Arkansas,Washington,Springdale,72764,For profit,2019,36.17838,-94.05255,12
+CHS,Northwest Medical Center - Springdale,â€“,AR,Arkansas,Washington,Springdale,72764,For profit,2019,36.17838,-94.05255,12
 CHS,AllianceHealth midwest,370094,OK,Oklahoma,Oklahoma,Oklahoma City,73110,For profit,2019,35.46116,-97.39766,12
 CHS,AllianceHealth Madill,371326,OK,Oklahoma,Marshall,Madill,73446,For profit,2019,34.08956,-96.77795,12
 CHS,AllianceHealth Clinton,370029,OK,Oklahoma,Custer,Clinton,73601,For profit,2019,35.48715,-98.96583,12
@@ -334,7 +334,7 @@ CHS,Abilene Regional Medical Center,450558,TX,Texas,Taylor,Abilene,79606,For pro
 CHS,Northwest Medical Center,30085,AZ,Arizona,Pima,Tucson,85741,For profit,2019,32.33731,-111.03944,12
 CHS,Oro Valley Hospital,30114,AZ,Arizona,Pima,Tucson,85755,For profit,2019,32.46826,-110.98146,12
 CHS,Western Arizona Regional Medical Center,30101,AZ,Arizona,Mohave,Bullhead City,86442,For profit,2019,35.08682,-114.56705,12
-CHS,MountainView Regional Medical Center,320085,NM,New Mexico,DoÃ±a Ana,Las Cruces,88011,For profit,2019,32.31585,-106.6437,12
+CHS,MountainView Regional Medical Center,320085,NM,New Mexico,DoÃƒÂ±a Ana,Las Cruces,88011,For profit,2019,32.31585,-106.6437,12
 CHS,Eastern New Mexico Medical Center,320006,NM,New Mexico,Chaves,Roswell,88201,For profit,2019,33.63973,-104.37994,12
 CHS,Carlsbad Medical Center,320063,NM,New Mexico,Eddy,Carlsbad,88220,For profit,2019,32.29637,-104.41327,12
 CHS,Lea Regional Medical Center,320065,NM,New Mexico,Lea,Hobbs,88240,For profit,2019,32.7078,-103.47152,12
@@ -377,13 +377,13 @@ Dignity Health,Sierra Nevada Memorial Hospital,,CA,California,Nevada County,Gras
 Dignity Health,Mercy Medical Center Redding,,CA,California,Shasta County,Redding,96001,Non-profit,Future Prospects: 2020,40.59649,-122.46005,13
 Dignity Health,Mercy Medical Center Mount Shasta,,CA,California,Siskiyou County,Mount Shasta,96067,Non-profit,Future Prospects: 2020,41.30912,-122.36782,13
 Dignity Health,Saint Elizabeth Community Hospital,,CA,California,Tehama County,Red Bluff,96080,Non-profit,Future Prospects: 2020,40.16516,-122.38167,13
-Eastside Health Alliance,Concierge Care,–,WA,Washington,King,Bellevue,98004,Non-profit,2019,47.62317013,-122.20345,14
-Eastside Health Alliance,Downtown Bellevue Primary Care Clinic,–,WA,Washington,King,Bellevue,98004,Non-profit,2019,47.62317013,-122.20845,14
-Eastside Health Alliance,Emergency Medical Room,–,WA,Washington,King,Bellevue,98004,Non-profit,2019,47.61884,-122.21095,14
-Eastside Health Alliance,Hospital Campus Primary Care,–,WA,Washington,King,Bellevue,98004,Non-profit,2019,47.61450987,-122.20845,14
-Eastside Health Alliance,Lake Hills Primary Care,–,WA,Washington,King,Bellevue,98007,Non-profit,2019,47.61446,-122.14381,14
-Eastside Health Alliance,Senior Health Clinic Primary Care,–,WA,Washington,King,Bellevue,98004,Non-profit,2019,47.61884,-122.20095,14
-Emory Healthcare,Emory University Orthopaedics & Spine Hospital,–,GA,Georgia,DeKalb County,,30084,Non-profit,2011-2016,33.85431,-84.216,15
+Eastside Health Alliance,Concierge Care,â€“,WA,Washington,King,Bellevue,98004,Non-profit,2019,47.62317013,-122.20345,14
+Eastside Health Alliance,Downtown Bellevue Primary Care Clinic,â€“,WA,Washington,King,Bellevue,98004,Non-profit,2019,47.62317013,-122.20845,14
+Eastside Health Alliance,Emergency Medical Room,â€“,WA,Washington,King,Bellevue,98004,Non-profit,2019,47.61884,-122.21095,14
+Eastside Health Alliance,Hospital Campus Primary Care,â€“,WA,Washington,King,Bellevue,98004,Non-profit,2019,47.61450987,-122.20845,14
+Eastside Health Alliance,Lake Hills Primary Care,â€“,WA,Washington,King,Bellevue,98007,Non-profit,2019,47.61446,-122.14381,14
+Eastside Health Alliance,Senior Health Clinic Primary Care,â€“,WA,Washington,King,Bellevue,98004,Non-profit,2019,47.61884,-122.20095,14
+Emory Healthcare,Emory University Orthopaedics & Spine Hospital,â€“,GA,Georgia,DeKalb County,,30084,Non-profit,2011-2016,33.85431,-84.216,15
 Emory Healthcare,Emory Johns Creek Hospital,110230,GA,Georgia,Fulton County,,30097,Non-profit,2011-2016,34.02595,-84.14704,15
 Emory Healthcare,Emory University Hospital Midtown,110078,GA,Georgia,Fulton County,,30308,Non-profit,2011-2016,33.77121,-84.3831,15
 Emory Healthcare,Emory Rehabilitation Hospital,113031,GA,Georgia,DeKalb County,,30322,Non-profit,2011-2016,33.79476,-84.33082,15
@@ -559,7 +559,7 @@ Hospital Sisters Health System,St. John's Hospital,140053,IL,Illinois,Sangamon,S
 Island Hospital,Island Hospital,500007,WA,Washington,Skagit County,Anacortes,98221,-,2011-2016,48.50321,-122.65492,19
 LifePoint,Memorial Medical Center - Main Campus,,PA,Pennsylvania,Cambria County,Johnstown,15905,For profit,Future Prospects: 2020,40.28712,-78.97841,20
 LifePoint,Fauquier Health,490023,VA,Virginia,Fauquier,Warrenton,20186,For profit,2019,38.70158,-77.84441,20
-LifePoint,Sovah Health - Martinsville,–,VA,Virginia,Martinsville,Martinsville,24112,For profit,2019,36.72729,-79.84428,20
+LifePoint,Sovah Health - Martinsville,â€“,VA,Virginia,Martinsville,Martinsville,24112,For profit,2019,36.72729,-79.84428,20
 LifePoint,Twin County Regional Healthcare,490115,VA,Virginia,Galax,Galax,24333,For profit,2019,36.63831,-80.92884,20
 LifePoint,Wythe County Community Hospital,490111,VA,Virginia,Wythe,Wytheville,24382,For profit,2019,36.96023,-81.09972,20
 LifePoint,Sovah Health - Danville,490075,VA,Virginia,Danville,Danville,24541,For profit,2019,36.59208,-79.51244,20
@@ -585,8 +585,8 @@ LifePoint,Riverview Regional Medical Center,441307,TN,Tennessee,Smith,Carthage,3
 LifePoint,Sumner Regional Medical Center,440003,TN,Tennessee,Sumner,Gallatin,37066,For profit,2019,36.39872,-86.45526,20
 LifePoint,Trousdale Medical Center,441301,TN,Tennessee,Trousdale,Hartsville,37074,For profit,2019,36.41898,-86.14427,20
 LifePoint,Starr Regional Medical Center - Athens,440068,TN,Tennessee,McMinn,Athens,37303,For profit,2019,35.4407,-84.64319,20
-LifePoint,Starr Regional Medical Center - Etowah,–,TN,Tennessee,McMinn,Etowah,37331,For profit,2019,35.31937,-84.53023,20
-LifePoint,Southern Tennessee Reigonal Health System - Sewanee,–,TN,Tennessee,Franklin,Sewanee,37375,For profit,2019,35.15429,-85.89182,20
+LifePoint,Starr Regional Medical Center - Etowah,â€“,TN,Tennessee,McMinn,Etowah,37331,For profit,2019,35.31937,-84.53023,20
+LifePoint,Southern Tennessee Reigonal Health System - Sewanee,â€“,TN,Tennessee,Franklin,Sewanee,37375,For profit,2019,35.15429,-85.89182,20
 LifePoint,Southern Tennessee Medical Center,,TN,Tennessee,Franklin County,Winchester,37398,For profit,Future Prospects: 2020,35.18375,-86.14486,20
 LifePoint,Southern Tennessee Regional Health System - Winchester,440058,TN,Tennessee,Franklin,Winchester,37398,For profit,2019,35.18375,-86.13486,20
 LifePoint,Southern Tennessee Regional Health System - Lawrenceburg,440175,TN,Tennessee,Lawrence,Lawrenceburg,38464,For profit,2019,35.2867,-87.42956,20
@@ -616,24 +616,24 @@ LifePoint,Ashley Regional Medical Center,,UT,Utah,Uintah County,Vernal,84078,For
 LifePoint,Castleview Hospital,,UT,Utah,Carbon County,Price,84501,For profit,Future Prospects: 2020,39.547,-110.76031,20
 LifePoint,Los Alamos Medical Center,,NM,New Mexico,Los Alamos County,Los Alamos,87544,For profit,Future Prospects: 2020,35.84231,-106.29078,20
 LifePoint,Northeastern Nevada Regional Hospital,,NV,Nevada,Elko County,Elko,89801,For profit,Future Prospects: 2020,41.24908,-115.75892,20
-Mercy,Mercy Clayton and Clarkson,–,MO,Missouri,St. Louis County,Ballwin,63011,Non-profit,2011-2016,38.6037,-90.55919,21
-Mercy,Mercy Rehabilitation Hospital St. Louis,–,MO,Missouri,St. Louis County,Chesterfield,63017,Non-profit,2011-2016,38.65104,-90.54142,21
+Mercy,Mercy Clayton and Clarkson,â€“,MO,Missouri,St. Louis County,Ballwin,63011,Non-profit,2011-2016,38.6037,-90.55919,21
+Mercy,Mercy Rehabilitation Hospital St. Louis,â€“,MO,Missouri,St. Louis County,Chesterfield,63017,Non-profit,2011-2016,38.65104,-90.54142,21
 Mercy,Mercy Hospital Jefferson,260023,MO,Missouri,Jefferson County,Crystal City,63019,Non-profit,2011-2016,38.22874,-90.37672,21
-Mercy,Mercy Surgery Center,–,MO,Missouri,Jefferson County,Festus,63028,Non-profit,2011-2016,38.14637,-90.39567,21
+Mercy,Mercy Surgery Center,â€“,MO,Missouri,Jefferson County,Festus,63028,Non-profit,2011-2016,38.14637,-90.39567,21
 Mercy,Mercy Hospital Washington,260052,MO,Missouri,Franklin County,Washington,63090,Non-profit,2011-2016,38.53099,-91.05345,21
-Mercy,Mercy Patients First Drive,–,MO,Missouri,Franklin County,Washington,63090,Non-profit,2011-2016,38.53099,-91.04345,21
-Mercy,Mercy Heart and Vascular Hospital St. Louis,–,MO,Missouri,St. Louis County,St. Louis,63141,Non-profit,2011-2016,38.65829,-90.46318,21
+Mercy,Mercy Patients First Drive,â€“,MO,Missouri,Franklin County,Washington,63090,Non-profit,2011-2016,38.53099,-91.04345,21
+Mercy,Mercy Heart and Vascular Hospital St. Louis,â€“,MO,Missouri,St. Louis County,St. Louis,63141,Non-profit,2011-2016,38.65829,-90.46318,21
 Mercy,Mercy Hospital St. Louis,260020,MO,Missouri,St. Louis County,St. Louis,63141,Non-profit,2011-2016,38.65829,-90.45318,21
 Mercy,Mercy Hospital Joplin,260001,MO,Missouri,Jasper County,Joplin,64804,Non-profit,2011-2016,37.0209,-94.50993,21
 Mercy,Mercy McCune-Brooks Hospital,261338,MO,Missouri,Jasper County,Carthage,64836,Non-profit,2011-2016,37.18744,-94.28786,21
-Mercy,Mercy Rolla,–,MO,Missouri,Phelps County,Rolla,65401,Non-profit,2011-2016,37.90464,-91.76536,21
+Mercy,Mercy Rolla,â€“,MO,Missouri,Phelps County,Rolla,65401,Non-profit,2011-2016,37.90464,-91.76536,21
 Mercy,Mercy Hospital Lebanon,260059,MO,Missouri,Laclede County,Lebanon,65536,Non-profit,2011-2016,37.68624,-92.64574,21
 Mercy,Mercy St. Francis Hospital,261335,MO,Missouri,Howell County,Mountain View,65548,Non-profit,2011-2016,37.01445,-91.71494,21
 Mercy,Mercy Hospital Aurora,261316,MO,Missouri,Lawrence County,Aurora,65605,Non-profit,2011-2016,36.88356,-93.69189,21
 Mercy,Mercy Hospital Cassville,261317,MO,Missouri,Barry County,Cassville,65625,Non-profit,2011-2016,36.67461,-93.8147,21
-Mercy,Mercy Orthopedic Hospital Springfield,–,MO,Missouri,Christian County,Ozark,65721,Non-profit,2011-2016,36.9801,-93.21018,21
+Mercy,Mercy Orthopedic Hospital Springfield,â€“,MO,Missouri,Christian County,Ozark,65721,Non-profit,2011-2016,36.9801,-93.21018,21
 Mercy,Mercy Hospital Springfield,260065,MO,Missouri,Greene County,Springfield,65804,Non-profit,2011-2016,37.14924,-93.25766,21
-Mercy,Mercy Rehabilitation Hospital Springfield,–,MO,Missouri,Greene County,Springfield,65804,Non-profit,2011-2016,37.14924,-93.24766,21
+Mercy,Mercy Rehabilitation Hospital Springfield,â€“,MO,Missouri,Greene County,Springfield,65804,Non-profit,2011-2016,37.14924,-93.24766,21
 Mercy,Mercy Hospital Fort Scott,170058,KS,Kansas,Bourbon County,Fort Scott,66701,Non-profit,2011-2016,37.82353,-94.76156,21
 Mercy,Mercy Maude Norton Hospital,171308,KS,Kansas,Cherokee County,Columbus,66725,Non-profit,2011-2016,37.16032,-94.89053,21
 Mercy,Mercy Hospital Independence,170010,KS,Kansas,Montgomery County,Independence,67301,Non-profit,2011-2016,37.20891,-95.7534,21
@@ -641,15 +641,15 @@ Mercy,Mercy Hospital Berryville,41329,AR,Arkansas,Carroll County,Berryville,7261
 Mercy,Mercy Hospital Northwest Arkansas,40010,AR,Arkansas,Benton County,Rogers,72758,Non-profit,2011-2016,36.29972,-94.13837,21
 Mercy,Mercy Hospital Paris,41300,AR,Arkansas,Logan County,Paris,72855,Non-profit,2011-2016,35.25288,-93.67869,21
 Mercy,Mercy Hospital Fort Smith,40062,AR,Arkansas,Sebastian County,Fort Smith,72903,Non-profit,2011-2016,35.35138,-94.36531,21
-Mercy,Mercy Orthopedic Hospital Fort Smith,–,AR,Arkansas,Sebastian County,Fort Smith,72903,Non-profit,2011-2016,35.35138,-94.35531,21
+Mercy,Mercy Orthopedic Hospital Fort Smith,â€“,AR,Arkansas,Sebastian County,Fort Smith,72903,Non-profit,2011-2016,35.35138,-94.35531,21
 Mercy,Mercy Hospital Booneville,41318,AR,Arkansas,Logan County,Booneville,72927,Non-profit,2011-2016,35.07484,-93.93656,21
 Mercy,Mercy Hospital Ozark,41303,AR,Arkansas,Franklin County,Ozark,72949,Non-profit,2011-2016,35.57712,-93.80774,21
 Mercy,Mercy Hospital Waldron,41305,AR,Arkansas,Scott County,Waldron,72958,Non-profit,2011-2016,34.90485,-94.12455,21
-Mercy,Mercy Edmond I-35,–,OK,Oklahoma,Oklahoma County,Edmond,73013,Non-profit,2011-2016,35.61946,-97.4812,21
+Mercy,Mercy Edmond I-35,â€“,OK,Oklahoma,Oklahoma County,Edmond,73013,Non-profit,2011-2016,35.61946,-97.4812,21
 Mercy,Mercy Hospital El Reno,370011,OK,Oklahoma,Canadian County,El Reno,73036,Non-profit,2011-2016,35.50998,-97.9596,21
 Mercy,Mercy Hospital Logan County,371317,OK,Oklahoma,Logan County,Guthrie,73044,Non-profit,2011-2016,35.8632,-97.42483,21
 Mercy,Mercy Hospital Oklahoma City,370013,OK,Oklahoma,Oklahoma County,Oklahoma City,73120,Non-profit,2011-2016,35.58046,-97.57224,21
-Mercy,Mercy Rehabilitation Hospital Oklahoma City,–,OK,Oklahoma,Oklahoma County,Oklahoma City,73142,Non-profit,2011-2016,35.61379,-97.64242,21
+Mercy,Mercy Rehabilitation Hospital Oklahoma City,â€“,OK,Oklahoma,Oklahoma County,Oklahoma City,73142,Non-profit,2011-2016,35.61379,-97.64242,21
 Mercy,Mercy Hospital Ardmore,370047,OK,Oklahoma,Carter County,Ardmore,73401,Non-profit,2011-2016,34.20309,-97.11484,21
 Mercy,Mercy Hospital Healdton,371310,OK,Oklahoma,Carter County,Healdton,73438,Non-profit,2011-2016,34.28646,-97.49945,21
 Mercy,Mercy Hospital Tishomingo,371304,OK,Oklahoma,Johnston County,Tishomingo,73460,Non-profit,2011-2016,34.2871,-96.66144,21
@@ -657,119 +657,119 @@ Mercy,Mercy Hospital Kingfisher,371313,OK,Oklahoma,Kingfisher County,Kingfisher,
 Mercy,Mercy Hospital Watonga,371302,OK,Oklahoma,Blaine County,Watonga,73772,Non-profit,2011-2016,35.86021,-98.4268,21
 Mercy,Mercy Hospital Ada,370020,OK,Oklahoma,Pontotoc County,Ada,74820,Non-profit,2011-2016,34.78899,-96.71076,21
 Mercy - Chicago,Mercy Hospital & Medical Center,140158,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.85022,-87.62721,22
-Mercy - Chicago,Mercy Medical Group at Dearborn Station,–,IL,Illinois,Cook County,Chicago,60605,Non-profit,2018,41.86684,-87.62483,22
-Mercy - Chicago,MercyWorks at Dearborn Station,–,IL,Illinois,Cook County,Chicago,60605,Non-profit,2018,41.86684,-87.61483,22
-Mercy - Chicago,Mercy Medical Group in Bridgeport,–,IL,Illinois,Cook County,Chicago,60609,Non-profit,2018,41.81252,-87.65565,22
-Mercy - Chicago,Lakefront Bariatrics of Chicago,–,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84875553,-87.62367447,22
-Mercy - Chicago,Mercy Medical Group at Mercy Hospital,–,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84875553,-87.63074553,22
-Mercy - Chicago,Mercy Medical Group in Chinatown,–,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84522,-87.63221,22
-Mercy - Chicago,Mercy Medical Group on Michigan,–,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84168447,-87.63074553,22
-Mercy - Chicago,Mercy Medical Group Specialty Center,–,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84022,-87.62721,22
-Mercy - Chicago,Mercy Rostenkowski Outpatient Surgery Center,–,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84168447,-87.62367447,22
-Mercy - Chicago,Women's Health Center,–,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84522,-87.62221,22
-Mercy - Chicago,Mercy Medical Group in Chatham,–,IL,Illinois,Cook County,Chicago,60619,Non-profit,2018,41.74373,-87.60549,22
-Mercy - Chicago,Mercy mMedical Group on Pulaski & 55th,–,IL,Illinois,Cook County,Chicago,60629,Non-profit,2018,41.77567,-87.71676,22
-Mercy - Chicago,MercyWorks at Pulaski & 55th,–,IL,Illinois,Cook County,Chicago,60629,Non-profit,2018,41.77567,-87.70676,22
-Mercy - Chicago,Mercy Medical Group on Pulaski & 43rd,–,IL,Illinois,Cook County,Chicago,60632,Non-profit,2018,41.81133,-87.71335,22
-Mercy - Chicago,Mercy Medical Group at Oakwood Shores,–,IL,Illinois,Cook County,Chicago,60653,Non-profit,2018,41.81925,-87.61008,22
+Mercy - Chicago,Mercy Medical Group at Dearborn Station,â€“,IL,Illinois,Cook County,Chicago,60605,Non-profit,2018,41.86684,-87.62483,22
+Mercy - Chicago,MercyWorks at Dearborn Station,â€“,IL,Illinois,Cook County,Chicago,60605,Non-profit,2018,41.86684,-87.61483,22
+Mercy - Chicago,Mercy Medical Group in Bridgeport,â€“,IL,Illinois,Cook County,Chicago,60609,Non-profit,2018,41.81252,-87.65565,22
+Mercy - Chicago,Lakefront Bariatrics of Chicago,â€“,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84875553,-87.62367447,22
+Mercy - Chicago,Mercy Medical Group at Mercy Hospital,â€“,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84875553,-87.63074553,22
+Mercy - Chicago,Mercy Medical Group in Chinatown,â€“,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84522,-87.63221,22
+Mercy - Chicago,Mercy Medical Group on Michigan,â€“,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84168447,-87.63074553,22
+Mercy - Chicago,Mercy Medical Group Specialty Center,â€“,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84022,-87.62721,22
+Mercy - Chicago,Mercy Rostenkowski Outpatient Surgery Center,â€“,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84168447,-87.62367447,22
+Mercy - Chicago,Women's Health Center,â€“,IL,Illinois,Cook County,Chicago,60616,Non-profit,2018,41.84522,-87.62221,22
+Mercy - Chicago,Mercy Medical Group in Chatham,â€“,IL,Illinois,Cook County,Chicago,60619,Non-profit,2018,41.74373,-87.60549,22
+Mercy - Chicago,Mercy mMedical Group on Pulaski & 55th,â€“,IL,Illinois,Cook County,Chicago,60629,Non-profit,2018,41.77567,-87.71676,22
+Mercy - Chicago,MercyWorks at Pulaski & 55th,â€“,IL,Illinois,Cook County,Chicago,60629,Non-profit,2018,41.77567,-87.70676,22
+Mercy - Chicago,Mercy Medical Group on Pulaski & 43rd,â€“,IL,Illinois,Cook County,Chicago,60632,Non-profit,2018,41.81133,-87.71335,22
+Mercy - Chicago,Mercy Medical Group at Oakwood Shores,â€“,IL,Illinois,Cook County,Chicago,60653,Non-profit,2018,41.81925,-87.61008,22
 Mosaic Life Care,Endocrinology Services at Clarinda Regional Health Center,161352,IA,Iowa,Page County,Clarinda,51632,-,2018,40.74689,-95.04959,23
-Mosaic Life Care,Family Care at Albany Clinic East,–,MO,Missouri,Gentry County,Albany,64402,-,2018,40.25757,-94.33289,23
+Mosaic Life Care,Family Care at Albany Clinic East,â€“,MO,Missouri,Gentry County,Albany,64402,-,2018,40.25757,-94.33289,23
 Mosaic Life Care,Mosaic Life Care Services at Northwest Medical Center,261328,MO,Missouri,Gentry County,Albany,64402,-,2018,40.25757,-94.32289,23
 Mosaic Life Care,Cardiology Services at Harrison County Community Hospital,261312,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.26676013,-94.03346,23
-Mosaic Life Care,Endocrinology Services at Harrison County Community Hospital,–,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.26676013,-94.03846,23
-Mosaic Life Care,Neurology Services at Harrison County Community Hospital,–,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.26243,-94.04096,23
-Mosaic Life Care,Pain Management Services at Harrison County Community Hospital,–,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.25809987,-94.03846,23
-Mosaic Life Care,Rheumatology Services at Harrison County Community Hospital,–,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.25809987,-94.03346,23
-Mosaic Life Care,Women's Health Services at Harrison county Community Hospital,–,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.26243,-94.03096,23
-Mosaic Life Care,Mosaic Life Care at Cameron - Family Care,–,MO,Missouri,Clinton County,Cameron,64429,-,2018,39.73473,-94.23287,23
+Mosaic Life Care,Endocrinology Services at Harrison County Community Hospital,â€“,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.26676013,-94.03846,23
+Mosaic Life Care,Neurology Services at Harrison County Community Hospital,â€“,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.26243,-94.04096,23
+Mosaic Life Care,Pain Management Services at Harrison County Community Hospital,â€“,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.25809987,-94.03846,23
+Mosaic Life Care,Rheumatology Services at Harrison County Community Hospital,â€“,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.25809987,-94.03346,23
+Mosaic Life Care,Women's Health Services at Harrison county Community Hospital,â€“,MO,Missouri,Harrison County,Bethany,64424,-,2018,40.26243,-94.03096,23
+Mosaic Life Care,Mosaic Life Care at Cameron - Family Care,â€“,MO,Missouri,Clinton County,Cameron,64429,-,2018,39.73473,-94.23287,23
 Mosaic Life Care,Mosaic Life Care Services at Cameron Regional Medical Center,260057,MO,Missouri,Clinton County,Cameron,64429,-,2018,39.73473,-94.22287,23
-Mosaic Life Care,Family Care at Grant City Clinic,–,MO,Missouri,Worth County,Grant City,64456,-,2018,40.48962,-94.38705,23
-Mosaic Life Care,Family Care at New Hampton Rural Health Clinic,–,MO,Missouri,Harrison County,New Hampton,64471,-,2018,40.25602,-94.19423,23
+Mosaic Life Care,Family Care at Grant City Clinic,â€“,MO,Missouri,Worth County,Grant City,64456,-,2018,40.48962,-94.38705,23
+Mosaic Life Care,Family Care at New Hampton Rural Health Clinic,â€“,MO,Missouri,Harrison County,New Hampton,64471,-,2018,40.25602,-94.19423,23
 Mosaic Life Care,"Cancer Care at Maryville, MO",260050,MO,Missouri,Worth County,Maryville,64486,-,2018,40.53298916,-94.61553255,23
-Mosaic Life Care,Cardiology Services at St. Francis Hospital and Health Services,–,MO,Missouri,Worth County,Maryville,64486,-,2018,40.53395464,-94.61976261,23
-Mosaic Life Care,"Ear, Nose and Throat (ENT) Services at St. Francis Hospital and Health Services",–,MO,Missouri,Worth County,Maryville,64486,-,2018,40.53124942,-94.62315484,23
-Mosaic Life Care,Neurology Services at St. Francis Hospital and Health Services,–,MO,Missouri,Worth County,Maryville,64486,-,2018,40.52691058,-94.62315484,23
-Mosaic Life Care,Neurosurgery Services at St. Francis Hospital and Health Services,–,MO,Missouri,Worth County,Maryville,64486,-,2018,40.52420536,-94.61976261,23
-Mosaic Life Care,Pulmonary Services at St. Francis Hospital and Health Services,–,MO,Missouri,Worth County,Maryville,64486,-,2018,40.52517084,-94.61553255,23
-Mosaic Life Care,Vascular Surgery Services at St. Francis Hospital and Health Services,–,MO,Missouri,Worth County,Maryville,64486,-,2018,40.52908,-94.61365,23
-Mosaic Life Care,Family Care at Stanberry Rural Health Clinic,–,MO,Missouri,Gentry County,Stanberry,64489,-,2018,40.23307,-94.56053,23
-Mosaic Life Care,Mosaic Life Care at Stanberry - Hospice,–,MO,Missouri,Gentry County,Stanberry,64489,-,2018,40.23307,-94.55053,23
+Mosaic Life Care,Cardiology Services at St. Francis Hospital and Health Services,â€“,MO,Missouri,Worth County,Maryville,64486,-,2018,40.53395464,-94.61976261,23
+Mosaic Life Care,"Ear, Nose and Throat (ENT) Services at St. Francis Hospital and Health Services",â€“,MO,Missouri,Worth County,Maryville,64486,-,2018,40.53124942,-94.62315484,23
+Mosaic Life Care,Neurology Services at St. Francis Hospital and Health Services,â€“,MO,Missouri,Worth County,Maryville,64486,-,2018,40.52691058,-94.62315484,23
+Mosaic Life Care,Neurosurgery Services at St. Francis Hospital and Health Services,â€“,MO,Missouri,Worth County,Maryville,64486,-,2018,40.52420536,-94.61976261,23
+Mosaic Life Care,Pulmonary Services at St. Francis Hospital and Health Services,â€“,MO,Missouri,Worth County,Maryville,64486,-,2018,40.52517084,-94.61553255,23
+Mosaic Life Care,Vascular Surgery Services at St. Francis Hospital and Health Services,â€“,MO,Missouri,Worth County,Maryville,64486,-,2018,40.52908,-94.61365,23
+Mosaic Life Care,Family Care at Stanberry Rural Health Clinic,â€“,MO,Missouri,Gentry County,Stanberry,64489,-,2018,40.23307,-94.56053,23
+Mosaic Life Care,Mosaic Life Care at Stanberry - Hospice,â€“,MO,Missouri,Gentry County,Stanberry,64489,-,2018,40.23307,-94.55053,23
 Mosaic Life Care,Mosaic Life Care - Counseling Care,260006,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79085261,-94.79685536,23
-Mosaic Life Care,Mosaic Life Care - Hospice,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79190942,-94.79722516,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Adult Infectious Disease,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79285745,-94.79782084,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Anesthesia,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79364916,-94.79861255,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Diabetes Care,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79424484,-94.79956058,23
-Mosaic Life Care,"Mosaic Life Care at St. Joseph - Ear, Nose and Throat",–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79461464,-94.8006174,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Emergency Room,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79474,-94.80173,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Endocrinology,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79461464,-94.80284261,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Family Care N 36th Street,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79424484,-94.80389942,23
-Mosaic Life Care,Mosaic Life care at St. Joseph - Family Care North Pointe B and C,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79364916,-94.80484745,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Hospitalists,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79285745,-94.80563916,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Internal Medicine Beck Road,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79190942,-94.80623484,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Internal Medicine Plaza 2,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79085261,-94.80660464,23
-Mosaic Life Care,"Mosaic Life Care at St. Joseph - Internal Medicine, Pediatrics and Family Care",–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78974,-94.80673,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Medical Center,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.7886274,-94.80660464,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Neurology,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78757058,-94.80623484,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Outpatient Behavioral Health,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78662255,-94.80563916,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Outpatient therapy and Chiropractic Care,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78583084,-94.80484745,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Outpatient Therapy Frederick Avenue,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78523516,-94.80389942,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Physical Medicine and Rehabilitation,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78486536,-94.80284261,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Plastic Surgery and Dermatology,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78474,-94.80173,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Pulmonary and Critical Care,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78486536,-94.8006174,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Radiology and Outpatient Imaging,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78523516,-94.79956058,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Sleep Disorders,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78583084,-94.79861255,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Urgent Care,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78662255,-94.79782084,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Women's Health Plaza 2,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78757058,-94.79722516,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Wound Care,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.7886274,-94.79685536,23
-Mosaic Life Care,Mosaic Life Care Home Health,–,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78974,-94.79673,23
-Mosaic Life Care,Mosaic Life Care at St .Joseph - Bariatric Care,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73043621,-94.75527764,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Breast Care,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73199848,-94.75624496,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Cardiothoracic Surgery,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73310582,-94.75771131,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Cardiovascular Care,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73360867,-94.75947866,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - General Surgery,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73343913,-94.76130832,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Internal Medicine Mitchell Woods,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73262009,-94.76295317,23
-Mosaic Life Care,Mosaic life Care at St. Joseph - Mammography,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73126216,-94.76419109,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Medical Oncology,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72954875,-94.76485487,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Neurosurgery,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72771125,-94.76485487,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Pain Management,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72599784,-94.76419109,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Pediatrics,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72463991,-94.76295317,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Podiatry,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72382087,-94.76130832,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Radiation Oncology,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72365133,-94.75947866,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Radiology Plaza 1,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72415418,-94.75771131,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Rheumatology Care,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72526152,-94.75624496,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Vascular Surgery,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72682379,-94.75527764,23
-Mosaic Life Care,Mosaic Life Care at St. Joseph - Vein care,–,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72863,-94.75494,23
-Mosaic Life Care,Mosaic Life Care at Trenton - Family Care,–,MO,Missouri,Grundy County,Trenton,64683,-,2018,40.08173013,-93.60416,23
-Mosaic Life Care,"Cancer Care Services at Atchison, KS",–,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.54453013,-95.13639,23
+Mosaic Life Care,Mosaic Life Care - Hospice,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79190942,-94.79722516,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Adult Infectious Disease,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79285745,-94.79782084,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Anesthesia,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79364916,-94.79861255,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Diabetes Care,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79424484,-94.79956058,23
+Mosaic Life Care,"Mosaic Life Care at St. Joseph - Ear, Nose and Throat",â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79461464,-94.8006174,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Emergency Room,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79474,-94.80173,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Endocrinology,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79461464,-94.80284261,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Family Care N 36th Street,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79424484,-94.80389942,23
+Mosaic Life Care,Mosaic Life care at St. Joseph - Family Care North Pointe B and C,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79364916,-94.80484745,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Hospitalists,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79285745,-94.80563916,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Internal Medicine Beck Road,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79190942,-94.80623484,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Internal Medicine Plaza 2,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.79085261,-94.80660464,23
+Mosaic Life Care,"Mosaic Life Care at St. Joseph - Internal Medicine, Pediatrics and Family Care",â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78974,-94.80673,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Medical Center,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.7886274,-94.80660464,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Neurology,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78757058,-94.80623484,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Outpatient Behavioral Health,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78662255,-94.80563916,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Outpatient therapy and Chiropractic Care,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78583084,-94.80484745,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Outpatient Therapy Frederick Avenue,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78523516,-94.80389942,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Physical Medicine and Rehabilitation,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78486536,-94.80284261,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Plastic Surgery and Dermatology,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78474,-94.80173,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Pulmonary and Critical Care,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78486536,-94.8006174,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Radiology and Outpatient Imaging,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78523516,-94.79956058,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Sleep Disorders,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78583084,-94.79861255,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Urgent Care,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78662255,-94.79782084,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Women's Health Plaza 2,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78757058,-94.79722516,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Wound Care,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.7886274,-94.79685536,23
+Mosaic Life Care,Mosaic Life Care Home Health,â€“,MO,Missouri,Buchanan County,St. Joseph,64506,-,2018,39.78974,-94.79673,23
+Mosaic Life Care,Mosaic Life Care at St .Joseph - Bariatric Care,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73043621,-94.75527764,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Breast Care,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73199848,-94.75624496,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Cardiothoracic Surgery,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73310582,-94.75771131,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Cardiovascular Care,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73360867,-94.75947866,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - General Surgery,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73343913,-94.76130832,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Internal Medicine Mitchell Woods,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73262009,-94.76295317,23
+Mosaic Life Care,Mosaic life Care at St. Joseph - Mammography,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.73126216,-94.76419109,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Medical Oncology,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72954875,-94.76485487,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Neurosurgery,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72771125,-94.76485487,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Pain Management,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72599784,-94.76419109,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Pediatrics,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72463991,-94.76295317,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Podiatry,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72382087,-94.76130832,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Radiation Oncology,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72365133,-94.75947866,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Radiology Plaza 1,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72415418,-94.75771131,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Rheumatology Care,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72526152,-94.75624496,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Vascular Surgery,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72682379,-94.75527764,23
+Mosaic Life Care,Mosaic Life Care at St. Joseph - Vein care,â€“,MO,Missouri,Buchanan County,St. Joseph,64507,-,2018,39.72863,-94.75494,23
+Mosaic Life Care,Mosaic Life Care at Trenton - Family Care,â€“,MO,Missouri,Grundy County,Trenton,64683,-,2018,40.08173013,-93.60416,23
+Mosaic Life Care,"Cancer Care Services at Atchison, KS",â€“,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.54453013,-95.13639,23
 Mosaic Life Care,Cardiology Services at Atchison Kansas Hospital,171382,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.54453013,-95.14139,23
-Mosaic Life Care,Neurology Services at Atchison Kansas Hospital,–,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.5402,-95.14389,23
-Mosaic Life Care,Neurosurgery Services at Atchison Kansas Hospital,–,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.53586987,-95.14139,23
-Mosaic Life Care,Podiatry Services at Atchison Kansas Hospital,–,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.53586987,-95.13639,23
-Mosaic Life Care,Pulmonary Services at Atchison Kansas Hospital,–,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.5402,-95.13389,23
-Mosaic Life Care,Mosaic Life Care at Troy - Family Care,–,KS,Kansas,Doniphan County,Troy,66087,-,2018,39.79818,-95.12412,23
+Mosaic Life Care,Neurology Services at Atchison Kansas Hospital,â€“,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.5402,-95.14389,23
+Mosaic Life Care,Neurosurgery Services at Atchison Kansas Hospital,â€“,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.53586987,-95.14139,23
+Mosaic Life Care,Podiatry Services at Atchison Kansas Hospital,â€“,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.53586987,-95.13639,23
+Mosaic Life Care,Pulmonary Services at Atchison Kansas Hospital,â€“,KS,Kansas,Atchison County,Atchison,66002,-,2018,39.5402,-95.13389,23
+Mosaic Life Care,Mosaic Life Care at Troy - Family Care,â€“,KS,Kansas,Doniphan County,Troy,66087,-,2018,39.79818,-95.12412,23
 Mosaic Life Care,Neurology Services at Hiawatha Community Hospital,171341,KS,Kansas,Brown County,Hiawatha,66434,-,2018,39.86798,-95.54648,23
 Mosaic Life Care,Neurology Services at Sabetha Community Hospital,171338,KS,Kansas,Nemaha County,Sabetha,66534,-,2018,39.88472,-95.83667,23
 Mosaic Life Care,Neurology Services at nemaha Valley Community Hospital,171315,KS,Kansas,Nemaha County,Seneca,66538,-,2018,39.85249,-96.04433,23
 LifePoint,Capital Medical Center,500139,WA,Washington,Thurston County,Olympia,98502,-,2011-2016,47.09052,-123.01238,20
-MultiCare,MultiCare Allenmore Hospital,–,WA,Washington,Pierce County,Tacoma,98405,Non-profit,2011-2016,47.25014013,-122.4745,24
+MultiCare,MultiCare Allenmore Hospital,â€“,WA,Washington,Pierce County,Tacoma,98405,Non-profit,2011-2016,47.25014013,-122.4745,24
 MultiCare,MultiCare Auburn Medical Center,500015,WA,Washington,King County,Auburn,98001,Non-profit,2011-2016,47.30998,-122.26521,24
 MultiCare,MultiCare Covington Medical Center,500154,WA,Washington,King County,Covington,98042,Non-profit,2011-2016,47.36624,-122.11716,24
 MultiCare,MultiCare Deaconess Hospital,500044,WA,Washington,Spokane County,Spokane,99204,Non-profit,2011-2016,47.64564,-117.42712,24
-MultiCare,MultiCare Gig Harbor Medical Park,–,WA,Washington,Pierce County,Gig Harbor,98335,Non-profit,2011-2016,47.29895,-122.61392,24
+MultiCare,MultiCare Gig Harbor Medical Park,â€“,WA,Washington,Pierce County,Gig Harbor,98335,Non-profit,2011-2016,47.29895,-122.61392,24
 MultiCare,MultiCare Good Samaritan Hospital,500079,WA,Washington,Pierce County,Puyallup,98372,Non-profit,2011-2016,47.20602,-122.27191,24
 MultiCare,MultiCare Tacoma General Hospital,500129,WA,Washington,Pierce County,Tacoma,98405,Non-profit,2011-2016,47.24147987,-122.4745,24
 Northeast Georgia Health System,Northeast Georgia Medical Center,110029,GA,Georgia,Hall County,Gainesville,30501,Non-profit,2011-2016,34.31853,-83.81617,25
 MultiCare,MultiCare Valley Hospital,500119,WA,Washington,Spokane County,Spokane,99216,Non-profit,2011-2016,47.68,-117.20946,24
-Northwest Physicians Network (NPN),Northwest Physicians Network,–,WA,Washington,Pierce County,Tacoma,98402,-,2011-2016,47.24859,-122.43869,26
-Northwest Physicians Network (NPN),Sound Family Medicine - Bonney Lake,–,WA,Washington,Pierce County,Bonney Lake,98391,-,2011-2016,47.17717,-122.17228,26
-Northwest Physicians Network (NPN),Sound Family Medicine - Puyallup,–,WA,Washington,Pierce County,Puyallup,98373,-,2011-2016,47.1476,-122.32519,26
-Northwest Physicians Network (NPN),Sound Family Medicine - Puyallup,–,WA,Washington,Pierce County,Puyallup,98374,-,2011-2016,47.12996,-122.26195,26
-Northwest Physicians Network (NPN),Summit View Clinic,–,WA,Washington,Pierce County,Puyallup,98373,-,2011-2016,47.1476,-122.32519,26
+Northwest Physicians Network (NPN),Northwest Physicians Network,â€“,WA,Washington,Pierce County,Tacoma,98402,-,2011-2016,47.24859,-122.43869,26
+Northwest Physicians Network (NPN),Sound Family Medicine - Bonney Lake,â€“,WA,Washington,Pierce County,Bonney Lake,98391,-,2011-2016,47.17717,-122.17228,26
+Northwest Physicians Network (NPN),Sound Family Medicine - Puyallup,â€“,WA,Washington,Pierce County,Puyallup,98373,-,2011-2016,47.1476,-122.32519,26
+Northwest Physicians Network (NPN),Sound Family Medicine - Puyallup,â€“,WA,Washington,Pierce County,Puyallup,98374,-,2011-2016,47.12996,-122.26195,26
+Northwest Physicians Network (NPN),Summit View Clinic,â€“,WA,Washington,Pierce County,Puyallup,98373,-,2011-2016,47.1476,-122.32519,26
 PeaceHealth,Sacred Heart Medical Center University District,380033,OR,Oregon,Lane,Eugene,97401,Non-profit,2019,44.06826,-123.08181,27
 PeaceHealth,Cottage Grove Community Medical Center,381301,OR,Oregon,Lane,Cottage Grove,97424,Non-profit,2019,43.74446,-123.05448,27
 PeaceHealth,PeaceHealth Peace Harbor Medical Center,381316,OR,Oregon,Lane,Florence,97439,Non-profit,2019,44.06609,-124.03756,27
 PeaceHealth,Sacred Heart Medical Center at RiverBend,380102,OR,Oregon,Lane,Springfield,97477,Non-profit,2019,44.05874,-123.01121,27
-Northwest Physicians Network (NPN),Viewpoint Medical Clinic,–,WA,Washington,Pierce County,Puyallup,98372,-,2011-2016,47.20602,-122.26191,26
+Northwest Physicians Network (NPN),Viewpoint Medical Clinic,â€“,WA,Washington,Pierce County,Puyallup,98372,-,2011-2016,47.20602,-122.26191,26
 PeaceHealth,PeaceHealth Peace Island Medical Center,501340,WA,Washington,San Juan County,Friday Harbor,98250,Non-profit,2011-2016,48.55815,-123.0915,27
 PeaceHealth,PeaceHealth Southwest Medical Center,500050,WA,Washington,Clark,Vancouver,98664,Non-profit,2019,45.61981,-122.57752,27
 PeaceHealth,PeaceHealth St. John Medical Center,500041,WA,Washington,Cowlitz,Longview,98632,Non-profit,2019,46.21685,-123.06853,27
@@ -796,56 +796,56 @@ LifePoint,Ottumwa Regional Health Center,,AR,Arkansas,Wapello County,Ottumwa,525
 LifePoint,Community Medical Center,,MT,Montana,Missoula County,Missoula,59804,-,Future Prospects: 2020,46.90101,-114.25098,20
 LifePoint,National Park Medical Center,,AR,Arkansas,Garland County,Hot Springs,71901,-,Future Prospects: 2020,34.52697,-92.97158,20
 LifePoint,Saline Memorial Hospital,,AR,Arkansas,Saline County,Benton ,72015,-,Future Prospects: 2020,34.49332,-92.5896,20
-LifePoint,Saint Mary’s Regional Medical Center,,AR,Arkansas,Pope County,Russellville,72801,-,Future Prospects: 2020,35.2791,-93.14081,20
+LifePoint,Saint Maryâ€™s Regional Medical Center,,AR,Arkansas,Pope County,Russellville,72801,-,Future Prospects: 2020,35.2791,-93.14081,20
 LifePoint,Southwestern Medical Center,,OK,Oklahoma,Comanche County,Lawton,73505,-,Future Prospects: 2020,34.57886,-98.47856,20
 LifePoint,Paris Regional Medical Center,,TX,Texas,Lamar County,Paris,75460,-,Future Prospects: 2020,33.65811,-95.60422,20
 LifePoint,Canyon Vista Medical Center,,AZ,Arizona,Cochise County,Sierra Vista,85635,-,Future Prospects: 2020,31.57036,-110.17704,20
 LifePoint,Willamette Valley Medical Center,,OR,Oregon,Yamhill County,McMinnville,97128,-,Future Prospects: 2020,45.19704,-123.25456,20
 PeaceHealth,PeaceHealth United General Medical Center,501329,WA,Washington,Skagit County,Sedro-Woolley,98284,Non-profit,2011-2016,48.55308,-122.12046,27
 LifePoint,Trios Health,,WA,Washington,Benton County,Kennewick,99338,-,Future Prospects: 2020,46.14795,-119.27355,20
-Saint Luke's Health System,Saint Luke's Primary Care - Blue Springs,–,MO,Missouri,Jackson County,Blue Springs,64014,Non-profit,2011-2016,39.00708,-94.26002,30
-Saint Luke's Health System,Saint Luke's Primary Care - Independence,–,MO,Missouri,Jackson County,Independence,64055,Non-profit,2011-2016,39.05071,-94.39855,30
-Saint Luke's Health System,Saint Luke's Primary Care - Platte City,–,MO,Missouri,Platte County,Platte City,64079,Non-profit,2011-2016,39.35777,-94.79601,30
+Saint Luke's Health System,Saint Luke's Primary Care - Blue Springs,â€“,MO,Missouri,Jackson County,Blue Springs,64014,Non-profit,2011-2016,39.00708,-94.26002,30
+Saint Luke's Health System,Saint Luke's Primary Care - Independence,â€“,MO,Missouri,Jackson County,Independence,64055,Non-profit,2011-2016,39.05071,-94.39855,30
+Saint Luke's Health System,Saint Luke's Primary Care - Platte City,â€“,MO,Missouri,Platte County,Platte City,64079,Non-profit,2011-2016,39.35777,-94.79601,30
 Saint Luke's Health System,Saint Luke's East Hospital,260216,MO,Missouri,Jackson County,Lee's Summit,64086,Non-profit,2011-2016,38.91221013,-94.29003,30
 Saint Luke's Health System,Saint Luke's Primary Care - East,260216,MO,Missouri,Jackson County,Lee's Summit,64086,Non-profit,2011-2016,38.90354987,-94.29003,30
-Saint Luke's Health System,Saint Luke's Primary Care - Lee's Summit,–,MO,Missouri,Jackson County,Lees Summit,64086,Non-profit,2011-2016,38.90788,-94.28253,30
-Saint Luke's Health System,Saint Luke's North Hospital–Smithville,–,MO ,none,Clay County,Smithville,64089,Non-profit,2011-2016,39.39659013,-94.56511,30
-Saint Luke's Health System,Saint Luke's Primary Care - Smithville,–,MO,Missouri,Clay County,Smithville,64089,Non-profit,2011-2016,39.38792987,-94.56511,30
-Saint Luke's Health System,Saint Luke's Primary Care - Smithville South,–,MO,Missouri,Clay County,Smithville,64089,Non-profit,2011-2016,39.39226,-94.55761,30
-Saint Luke's Health System,Saint Luke's Hospital Medical Education Internal Medicine Clinic,–,MO,Missouri,Jackson County,Kansas City,64111,Non-profit,2011-2016,39.06256,-94.5939,30
-Saint Luke's Health System,Saint Luke's Hospital Medicine Specialists,–,MO,Missouri,Jackson County,Kansas City,64111,Non-profit,2011-2016,39.05756,-94.5989,30
+Saint Luke's Health System,Saint Luke's Primary Care - Lee's Summit,â€“,MO,Missouri,Jackson County,Lees Summit,64086,Non-profit,2011-2016,38.90788,-94.28253,30
+Saint Luke's Health System,Saint Luke's North Hospitalâ€“Smithville,â€“,MO ,none,Clay County,Smithville,64089,Non-profit,2011-2016,39.39659013,-94.56511,30
+Saint Luke's Health System,Saint Luke's Primary Care - Smithville,â€“,MO,Missouri,Clay County,Smithville,64089,Non-profit,2011-2016,39.38792987,-94.56511,30
+Saint Luke's Health System,Saint Luke's Primary Care - Smithville South,â€“,MO,Missouri,Clay County,Smithville,64089,Non-profit,2011-2016,39.39226,-94.55761,30
+Saint Luke's Health System,Saint Luke's Hospital Medical Education Internal Medicine Clinic,â€“,MO,Missouri,Jackson County,Kansas City,64111,Non-profit,2011-2016,39.06256,-94.5939,30
+Saint Luke's Health System,Saint Luke's Hospital Medicine Specialists,â€“,MO,Missouri,Jackson County,Kansas City,64111,Non-profit,2011-2016,39.05756,-94.5989,30
 Saint Luke's Health System,Saint Luke's Hospital of Kansas City,260138,MO,Missouri,Jackson County,Kansas City,64111,Non-profit,2011-2016,39.05256,-94.5939,30
-Saint Luke's Health System,Saint Luke's Primary Care - Plaza,–,MO,Missouri,Jackson County,Kansas City,64111,Non-profit,2011-2016,39.05756,-94.5889,30
-Saint Luke's Health System,Saint Luke's Crittenton Children's Center,–,MO,Missouri,Jackson County,Kansas City,64134,Non-profit,2011-2016,38.92947,-94.49174,30
-Saint Luke's Health System,Saint Luke's Hospital of Kansas City's Crittenton Children's Center,–,MO,Missouri,Jackson County,Kansas City,64134,Non-profit,2011-2016,38.92947,-94.48174,30
-Saint Luke's Health System,Saint Luke's Primary Care - Parkville,–,MO,Missouri,Platte County,Parkville,64152,Non-profit,2011-2016,39.2129,-94.7205,30
-Saint Luke's Health System,Saint Luke's North Hospital–Barry Road,260062,MO ,none,Platte County,Kansas City,64154,Non-profit,2011-2016,39.27837,-94.63587,30
-Saint Luke's Health System,Saint Luke's Primary Care - Barry Road,–,MO,Missouri,Platte County,Kansas City,64154,Non-profit,2011-2016,39.27837,-94.62587,30
-Saint Luke's Health System,Saint Luke's Primary Care - Highland Plaza,–,MO,Missouri,Clay County,Kansas City,64157,Non-profit,2011-2016,39.27616,-94.47186,30
-Saint Luke's Health System,Saint Luke's Primary Care - Shoal Creek,–,MO,Missouri,Clay County,Kansas City,64158,Non-profit,2011-2016,39.23531,-94.48314,30
-Saint Luke's Health System,Hedrick Family Care,–,MO,Missouri,Livingston County,Chillicothe,64601,Non-profit,2011-2016,39.80694,-93.58148,30
+Saint Luke's Health System,Saint Luke's Primary Care - Plaza,â€“,MO,Missouri,Jackson County,Kansas City,64111,Non-profit,2011-2016,39.05756,-94.5889,30
+Saint Luke's Health System,Saint Luke's Crittenton Children's Center,â€“,MO,Missouri,Jackson County,Kansas City,64134,Non-profit,2011-2016,38.92947,-94.49174,30
+Saint Luke's Health System,Saint Luke's Hospital of Kansas City's Crittenton Children's Center,â€“,MO,Missouri,Jackson County,Kansas City,64134,Non-profit,2011-2016,38.92947,-94.48174,30
+Saint Luke's Health System,Saint Luke's Primary Care - Parkville,â€“,MO,Missouri,Platte County,Parkville,64152,Non-profit,2011-2016,39.2129,-94.7205,30
+Saint Luke's Health System,Saint Luke's North Hospitalâ€“Barry Road,260062,MO ,none,Platte County,Kansas City,64154,Non-profit,2011-2016,39.27837,-94.63587,30
+Saint Luke's Health System,Saint Luke's Primary Care - Barry Road,â€“,MO,Missouri,Platte County,Kansas City,64154,Non-profit,2011-2016,39.27837,-94.62587,30
+Saint Luke's Health System,Saint Luke's Primary Care - Highland Plaza,â€“,MO,Missouri,Clay County,Kansas City,64157,Non-profit,2011-2016,39.27616,-94.47186,30
+Saint Luke's Health System,Saint Luke's Primary Care - Shoal Creek,â€“,MO,Missouri,Clay County,Kansas City,64158,Non-profit,2011-2016,39.23531,-94.48314,30
+Saint Luke's Health System,Hedrick Family Care,â€“,MO,Missouri,Livingston County,Chillicothe,64601,Non-profit,2011-2016,39.80694,-93.58148,30
 Saint Luke's Health System,Hedrick Medical Center,261321,MO ,none,Livingston County,Chillicothe,64601,Non-profit,2011-2016,39.80694,-93.57148,30
-Saint Luke's Health System,Saint Luke's Mercer County Clinic,–,MO,Missouri,Mercer County,Princeton,64673,Non-profit,2011-2016,40.37745,-93.58665,30
+Saint Luke's Health System,Saint Luke's Mercer County Clinic,â€“,MO,Missouri,Mercer County,Princeton,64673,Non-profit,2011-2016,40.37745,-93.58665,30
 Saint Luke's Health System,Wright Memorial Hospital,261309,MO,Missouri,Grundy County,Trenton,64683,Non-profit,2011-2016,40.07306987,-93.60416,30
-Saint Luke's Health System,Wright Memorial Physicians Group,–,MO,Missouri,Grundy County,Trenton,64683,Non-profit,2011-2016,40.0774,-93.59666,30
-Saint Luke's Health System,Saint Luke's Primary Care - Clinton,–,MO,Missouri,Henry County,Clinton,64735,Non-profit,2011-2016,38.36746,-93.74306,30
+Saint Luke's Health System,Wright Memorial Physicians Group,â€“,MO,Missouri,Grundy County,Trenton,64683,Non-profit,2011-2016,40.0774,-93.59666,30
+Saint Luke's Health System,Saint Luke's Primary Care - Clinton,â€“,MO,Missouri,Henry County,Clinton,64735,Non-profit,2011-2016,38.36746,-93.74306,30
 Saint Luke's Health System,Anderson County Hospital,171316,KS,Kansas,Anderson County,Garnett,66032,Non-profit,2011-2016,38.28231,-95.27822,30
-Saint Luke's Health System,Family Care Center,–,KS,Kansas,Anderson County,Garnett,66032,Non-profit,2011-2016,38.28231,-95.26822,30
-Saint Luke's Health System,Saint Luke's Primary Care - Lansing,–,KS,Kansas,Leavenworth County,Lansing,66043,Non-profit,2011-2016,39.25162,-94.8784,30
+Saint Luke's Health System,Family Care Center,â€“,KS,Kansas,Anderson County,Garnett,66032,Non-profit,2011-2016,38.28231,-95.26822,30
+Saint Luke's Health System,Saint Luke's Primary Care - Lansing,â€“,KS,Kansas,Leavenworth County,Lansing,66043,Non-profit,2011-2016,39.25162,-94.8784,30
 Saint Luke's Health System,Saint Luke's Cushing Hospital,170133,KS,Kansas,Leavenworth County,Leavenworth,66048,Non-profit,2011-2016,39.27854987,-94.99662,30
-Saint Luke's Health System,Saint Luke's Primary Care - Cushing,–,KS,Kansas,Leavenworth County,Leavenworth,66048,Non-profit,2011-2016,39.28288,-94.98912,30
-Saint Luke's Health System,Saint Luke's Community Hospital,–,KS,Kansas,Johnson County,Olathe,66062,Non-profit,2011-2016,38.83454,-94.77799,30
-Saint Luke's Health System,Saint Luke’s Community Hospital,–,KS,Kansas,Wyandotte County,Kansas City,66109,Non-profit,2011-2016,39.16346,-94.82807,30
-Saint Luke's Health System,Saint Luke’s Community Hospital,–,KS,Kansas,Johnson County,Overland Park,66204,Non-profit,2011-2016,38.99288,-94.67711,30
-Saint Luke's Health System,Saint Luke's Community Hospital,–,KS,Kansas,Johnson County,Roeland Park,66205,Non-profit,2011-2016,39.03124,-94.6307,30
-Saint Luke's Health System,Saint Luke's Primary Care - Mission Farms,–,KS,Kansas,Johnson County,Overland Park,66207,Non-profit,2011-2016,38.95589,-94.6444,30
-Saint Luke's Health System,Saint Luke’s Community Hospital,–,KS ,none,Johnson County,Leawood,66209,Non-profit,2011-2016,38.8991,-94.63373,30
+Saint Luke's Health System,Saint Luke's Primary Care - Cushing,â€“,KS,Kansas,Leavenworth County,Leavenworth,66048,Non-profit,2011-2016,39.28288,-94.98912,30
+Saint Luke's Health System,Saint Luke's Community Hospital,â€“,KS,Kansas,Johnson County,Olathe,66062,Non-profit,2011-2016,38.83454,-94.77799,30
+Saint Luke's Health System,Saint Lukeâ€™s Community Hospital,â€“,KS,Kansas,Wyandotte County,Kansas City,66109,Non-profit,2011-2016,39.16346,-94.82807,30
+Saint Luke's Health System,Saint Lukeâ€™s Community Hospital,â€“,KS,Kansas,Johnson County,Overland Park,66204,Non-profit,2011-2016,38.99288,-94.67711,30
+Saint Luke's Health System,Saint Luke's Community Hospital,â€“,KS,Kansas,Johnson County,Roeland Park,66205,Non-profit,2011-2016,39.03124,-94.6307,30
+Saint Luke's Health System,Saint Luke's Primary Care - Mission Farms,â€“,KS,Kansas,Johnson County,Overland Park,66207,Non-profit,2011-2016,38.95589,-94.6444,30
+Saint Luke's Health System,Saint Lukeâ€™s Community Hospital,â€“,KS ,none,Johnson County,Leawood,66209,Non-profit,2011-2016,38.8991,-94.63373,30
 Saint Luke's Health System,Kansas City Orthopaedic Institute,170188,KS,Kansas,Johnson County,Leawood,66211,Non-profit,2011-2016,38.92358,-94.63686,30
-Saint Luke's Health System,Saint Luke's Primary Care - Southridge,–,KS,Kansas,Johnson County,Overland Park,66213,Non-profit,2011-2016,38.89918,-94.71042,30
+Saint Luke's Health System,Saint Luke's Primary Care - Southridge,â€“,KS,Kansas,Johnson County,Overland Park,66213,Non-profit,2011-2016,38.89918,-94.71042,30
 Saint Luke's Health System,Saint Luke's South Hospital,170185,KS ,none,Johnson County,Overland Park,66213,Non-profit,2011-2016,38.89918,-94.70042,30
 Saint Luke's Health System,Saint Luke's Primary Care - Blue Valley,170201,KS,Kansas,Johnson County,Leawood,66224,Non-profit,2011-2016,38.86291,-94.62815,30
 Skagit Regional Health System,Skagit Regional Clinics - Mount Vernon,500003,WA,Washington,Skagit County,Mount Vernon,98274,Non-profit,2011-2016,48.35936,-122.14553,31
-Spartanburg Regional Healthcare System,North Grove,–,SC,South Carolina,Spartanburg County,Spartanburg,29303,Non-profit,2017,34.99338,-81.97235,32
+Spartanburg Regional Healthcare System,North Grove,â€“,SC,South Carolina,Spartanburg County,Spartanburg,29303,Non-profit,2017,34.99338,-81.97235,32
 Spartanburg Regional Healthcare System,Spartanburg Medical Center,420007,SC,South Carolina,Spartanburg County,Spartanburg,29303,Non-profit,2017,34.99338,-81.96235,32
 Spartanburg Regional Healthcare System,Union Medical Center,420108,SC,South Carolina,Union County,Union,29379,Non-profit,2017,34.68076,-81.60943,32
 Spartanburg Regional Healthcare System,Pelham Medical Center,420103,SC,South Carolina,Greenville County,Greer,29651,Non-profit,2017,34.94719,-82.22597,32
@@ -853,15 +853,15 @@ SSM Health Care,SSM Health St. Clare Hospital,260081,MO,Missouri,St. Louis Count
 SSM Health Care,SSM Health DePaul Hospital,260104,MO ,none,St. Louis County,St. Louis,63044,Non-profit,2011-2016,38.76981,-90.42897,33
 SSM Health Care,SSM Health Saint Louis University Hospital,260105,MO,Missouri,St. Louis city,St. Louis,63110,Non-profit,2011-2016,38.62586,-90.26699,33
 SSM Health Care,SSM Health St. Mary's Hospital ,260064,MO ,none,St. Louis County,St. Louis,63117,Non-profit,2011-2016,38.63082,-90.33105,33
-SSM Health Care,SSM Health Care St. Louis,–,MO ,none,St. Louis County,St. Louis,63132,Non-profit,2011-2016,38.67595,-90.37789,33
-SSM Health Care,SSM Health St. Joseph Hospital,–,MO ,none,St. Charles County,St. Louis,63301,Non-profit,2011-2016,38.86333,-90.46736,33
+SSM Health Care,SSM Health Care St. Louis,â€“,MO ,none,St. Louis County,St. Louis,63132,Non-profit,2011-2016,38.67595,-90.37789,33
+SSM Health Care,SSM Health St. Joseph Hospital,â€“,MO ,none,St. Charles County,St. Louis,63301,Non-profit,2011-2016,38.86333,-90.46736,33
 SSM Health Care,SSM Health St. Joseph Hospital - Lake Saint Louis,260200,MO ,none,St. Charles County,St. Louis,63367,Non-profit,2011-2016,38.7778,-90.79555,33
 SSM Health Care,SSM Health St. Joseph Hospital,260005,MO,Missouri,St. Charles County,Wentzville,63385,Non-profit,2011-2016,38.79701,-90.85757,33
 St. Luke's Hospital,St. Luke's Hospital,260179,MO ,none,St. Louis County,Chesterfield,63017,Non-profit,2011-2016,38.65104,-90.53142,34
-Tenet Healthcare,Abrazo Arizone Heart Hospital,–,AZ,Arizona,Maricopa County,Phoenix,85016,For profit,2017,33.51359,-112.02967,35
+Tenet Healthcare,Abrazo Arizone Heart Hospital,â€“,AZ,Arizona,Maricopa County,Phoenix,85016,For profit,2017,33.51359,-112.02967,35
 Tenet Healthcare,Abrazo Arrowhead Campus,30094,AZ,Arizona,Maricopa County,Glendale,85308,For profit,2017,33.66051,-112.18462,35
 Tenet Healthcare,Abrazo Central Hospital,30030,AZ,Arizona,Maricopa County,Phoenix,85015,For profit,2017,33.50917,-112.10179,35
-Tenet Healthcare,Abrazo Maryvale Campus,–,AZ,Arizona,Maricopa County,Phoenix,85031,For profit,2017,33.49492,-112.16833,35
+Tenet Healthcare,Abrazo Maryvale Campus,â€“,AZ,Arizona,Maricopa County,Phoenix,85031,For profit,2017,33.49492,-112.16833,35
 Tenet Healthcare,Abrazo Scottsdale Campus,30083,AZ,Arizona,Maricopa County,Phoenix,85032,For profit,2017,33.6263,-112.00381,35
 Tenet Healthcare,Abrazo West Campus,30110,AZ,Arizona,Maricopa County,Goodyear,85395,For profit,2017,33.47905,-112.39451,35
 Tenet Healthcare,Baptist Medical Center,450058,TX,Texas,Bexar County,San Antonio,78205,For profit,2017,29.42353,-98.48595,35
@@ -887,7 +887,7 @@ Tenet Healthcare,Doctors Hospital of Manteca,50118,CA,California,San Joaquin Cou
 Tenet Healthcare,Doctors Medical Center of Modesto,50464,CA,California,Stanislaus County,Modesto,95350,For profit,2017,37.67192,-121.0073,35
 Tenet Healthcare,East Cooper Medical Center,420089,SC,South Carolina,Charleston County,Mt. Pleasant,29464,For profit,2017,32.82037,-79.85636,35
 Tenet Healthcare,Emanuel Medical Center,50179,CA,California,Stanislaus County,Turlock,95382,For profit,2017,37.5284,-120.85304,35
-Tenet Healthcare,Florida Medical Center - North Shore,–,FL,Florida,Broward County,Fort Lauderdale,33313,For profit,2017,26.15044,-80.22638,35
+Tenet Healthcare,Florida Medical Center - North Shore,â€“,FL,Florida,Broward County,Fort Lauderdale,33313,For profit,2017,26.15044,-80.22638,35
 Tenet Healthcare,Fountain Valley Regional Hospital,50570,CA,California,Orange County,Fountain Valley,92708,For profit,2017,33.71052,-117.9512,35
 Tenet Healthcare,Good Samaritan Medical Center,100287,FL,Florida,Palm Beach County,West Palm Beach,33401,For profit,2017,26.71649,-80.06779,35
 Tenet Healthcare,Hahnermann University Hospital,390290,PA,Pennsylvania,Philadelphia County,Philadelphia,19102,For profit,2017,39.95289,-75.16548,35
@@ -899,11 +899,11 @@ Tenet Healthcare,Lakewood Regional Medical Center,50581,CA,California,Los Angele
 Tenet Healthcare,Los Alamitos Medical Center,50551,CA,California,Orange County,Los Alamitos,90720,For profit,2017,33.79557,-118.0636,35
 Tenet Healthcare,MetroWest Medical Center - Framingham Union Hospital,220175,MA,Massachusetts,Middlesex County,Framingham,1702,For profit,2017,42.28217,-71.43387,35
 Tenet Healthcare,MetroWest Medical center - Leonard Morse Hospital,,MA,Massachusetts,Middlesex County,Natick,1760,For profit,2017,42.28434,-71.34983,35
-Tenet Healthcare,Mission Trail Baptist Hospital,–,TX,Texas,Bexar County,San Antonio,78235,For profit,2017,29.34604,-98.44367,35
+Tenet Healthcare,Mission Trail Baptist Hospital,â€“,TX,Texas,Bexar County,San Antonio,78235,For profit,2017,29.34604,-98.44367,35
 Tenet Healthcare,Nacogdoches Medical Center,450656,TX,Texas,Nacogdoches County,Nacogdoches,75965,For profit,2017,31.72385,-94.62609,35
-Tenet Healthcare,North Central Baptist Hospital,–,TX,Texas,Bexar County,San Antonio,78258,For profit,2017,29.6337,-98.49105,35
+Tenet Healthcare,North Central Baptist Hospital,â€“,TX,Texas,Bexar County,San Antonio,78258,For profit,2017,29.6337,-98.49105,35
 Tenet Healthcare,North Shore Medical Center,100210,FL,Florida,Miami-Dade County,Miami,33150,For profit,2017,25.85204,-80.20711,35
-Tenet Healthcare,Northeast Baptist Hospital,–,TX,Texas,Bexar County,San Antonio,78217,For profit,2017,29.54045,-98.42007,35
+Tenet Healthcare,Northeast Baptist Hospital,â€“,TX,Texas,Bexar County,San Antonio,78217,For profit,2017,29.54045,-98.42007,35
 Tenet Healthcare,Palm Beach Gardens Medical Center,100176,FL,Florida,Palm Beach County,Palm Beach Gardens,33410,For profit,2017,26.84659,-80.08803,35
 Tenet Healthcare,Palmetto General Hospital,100187,FL,Florida,Miami-Dade County,Hialeah,33016,For profit,2017,25.8949,-80.33243,35
 Tenet Healthcare,Piedmont Medical Center,420002,SC,South Carolina,York County,Rock Hill,29732,For profit,2017,34.96969,-81.07934,35
@@ -916,7 +916,7 @@ Tenet Healthcare,Saint Vincent Hospital,220176,MA,Massachusetts,Worcester County
 Tenet Healthcare,San Ramon Regional Medical Center,50689,CA,California,Contra Costa County,San Ramon,94583,For profit,2017,37.75515,-121.97273,35
 Tenet Healthcare,Shelby Baptist Medical Center,10016,AL,Alabama,Shelby County,Alabaster,35007,For profit,2017,33.21591,-86.79717,35
 Tenet Healthcare,Sierra Vista Regional Medical Center,50506,CA,California,San Luis Obispo County,San Luis Obispo,93405,For profit,2017,35.29781,-120.72717,35
-Tenet Healthcare,St. Luke's Baptist Hospital,–,TX,Texas,Bexar County,San Antonio,78229,For profit,2017,29.50555,-98.5672,35
+Tenet Healthcare,St. Luke's Baptist Hospital,â€“,TX,Texas,Bexar County,San Antonio,78229,For profit,2017,29.50555,-98.5672,35
 Tenet Healthcare,St. Mary's Medical Center,100288,FL,Florida,Palm Beach County,West Palm Beach,33407,For profit,2017,26.75779,-80.08574,35
 Tenet Healthcare,The Hospitals of Providence East Campus,670047,TX,Texas,El Paso County,El Paso,79938,For profit,2017,31.83091,-105.97012,35
 Tenet Healthcare,The Hospitals of Providence Memorial Campus,450002,TX,Texas,El Paso County,El Paso,79902,For profit,2017,31.77978987,-106.5004,35
@@ -966,11 +966,11 @@ Trinity Health,Saint Agnes Medical Center,,CA,California,Fresno County,,93720,No
 Ardent,UT Health Carthage,450210,TX,Texas,Panola,Carthage,75633,-,2019,32.12895,-94.27705,3
 Ardent,UT Health Henderson,450475,TX,Texas,Rusk,Henderson,75652,-,2019,32.22989,-94.73272,3
 Ardent,UT Health Pittsburg,451367,TX,Texas,Camp,Pittsburg,75686,-,2019,32.96953,-94.95017,3
-Ardent,UT Health East Texas Behavioral Health Center,–,TX,Texas,Smith,Tyler,75701,-,2019,32.32829,-95.30091,3
-Ardent,UT Health East Texas Long-Term Acute Care,–,TX,Texas,Smith,Tyler,75701,-,2019,32.32329,-95.30591,3
+Ardent,UT Health East Texas Behavioral Health Center,â€“,TX,Texas,Smith,Tyler,75701,-,2019,32.32829,-95.30091,3
+Ardent,UT Health East Texas Long-Term Acute Care,â€“,TX,Texas,Smith,Tyler,75701,-,2019,32.32329,-95.30591,3
 Ardent,UT Health East Texas Rehabilitation Center,452051,TX,Texas,Smith,Tyler,75701,-,2019,32.31829,-95.30091,3
 Ardent,UT Health Tyler,450083,TX,Texas,Smith,Tyler,75701,-,2019,32.32329,-95.29591,3
-Ardent,UT Health North Campus Tyler,–,TX,Texas,Smith,Tyler,75708,-,2019,32.41635,-95.20958,3
+Ardent,UT Health North Campus Tyler,â€“,TX,Texas,Smith,Tyler,75708,-,2019,32.41635,-95.20958,3
 Ardent,UT Health Athens,450389,TX,Texas,Henderson,Athens,75751,-,2019,32.09642,-95.9083,3
 Ardent,UT Health Jacksonville,450194,TX,Texas,Cherokee,Jacksonville,75766,-,2019,31.9462,-95.25704,3
 Ardent,UT Health Quitman,451380,TX,Texas,Wood,Quitman,75783,-,2019,32.82157,-95.42366,3
